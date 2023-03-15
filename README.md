@@ -1,0 +1,3 @@
+# micro_frontends_based_on_webpack5_module_federation
+
+从0到1实现基于Webpack5 模块联邦（Module Federation）的微前端~
