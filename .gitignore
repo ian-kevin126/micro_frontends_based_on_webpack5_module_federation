@@ -1,0 +1,16 @@
+./container/yarn.lock
+./micro-front-end-1/yarn.lock
+./micro-front-end-2/yarn.lock
+./react-microfrontend-3/yarn.lock
+./vue-microfrontend-4/yarn.lock
+
+./container/node_modules
+./micro-front-end-1/node_modules
+./micro-front-end-2/node_modules
+./react-microfrontend-3/node_modules
+./vue-microfrontend-4/node_modules
+
+**/*/node_modules
+**/*/yarn.lock
+
+.DS_Store
